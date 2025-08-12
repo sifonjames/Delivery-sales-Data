@@ -19,3 +19,12 @@ Breakdown Type – Specific nature of the breakdown, if applicable.
 Vehicle Total Mileage (km) – Total distance the vehicle has covered in its lifetime.
 
 Fuel Used Cost – Total cost of fuel consumed for the delivery.
+
+## Tools used for the analysis
+- **Power Query** – for data cleaning, analysis, and visualization  
+- **Excel Functions** – LEFT, , IF, Pivot Tables, etc.  
+- **Excel Charts** – for visualizing trends and patterns
+- **GitHub** – for sharing and version control
+
+You can also add Power Query
+
